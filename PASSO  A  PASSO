@@ -1,0 +1,9 @@
+PASSO  A  PASSO
+
+1º INSTALAR NODE
+2º npm install -g typescript
+3º npm install -g @angular/cli
+4º CONFIRMANDO INSTALAÇÕES : 
+		4.1: ng version
+		4.2: node -v
+5º vs code

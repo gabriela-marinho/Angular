@@ -1,0 +1,28 @@
+#ANGULAR 2
+
+www.angular.io
+
+####BLOCOS ANGULAR
+
+1.COMPONETE => praticamnete é a view (oq o cliente vê)
+		{}
+            ENCAPSULA:
+            -Template
+            -Metadata: processamento de classes, permite lê as classes e processar as mesmas
+            -Dado a ser mostrado na tela(Data Binding => Associação dos datos que temos no nosso componente com os compenente HTML do  templente
+            -Comportamento da VIEW
+
+
+   *tudo é um componente  , principal papel é mostrar dados, se comunica com o backend.
+
+   2.SERVICE
+
+   *NÃO SE ESCREVE CODIGO DE LOGICA NO COMPONENTE, SE ESCREVE NO *****SERVICE (que pode ser injetado em outras classes)*****     
+
+   3. ROUTER
+
+   *UMA PAGINA MAS VARIAS TELAS. Roteamento das paginas.
+
+   4.DIRETIVAS
+   *Companentes são diretivas(EX. Diretivas que aumentam o campo de input)
+   *rESPONSAVEL PRO MODIFICAR ELEMENTOS DOM E/OU SEU COMPORTAMENTO.
